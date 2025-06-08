@@ -4,7 +4,7 @@
 ---
 This is a report on Supply Chain Carbon Emission Sustainabilty using Python, SQL, HTML and modules such as SMTP and MIME to generate and HTML report and send it to a desired user (email).
 
-## How to calculate CO~2~ emission?
+## How to calculate CO2 emission?
 
 | Known Quantities |
 | :---             |
