@@ -2,7 +2,7 @@
 # Automatic Email Report Generator (Python + SQL + SMTP)
 
 ---
-This is a report on Supply Chain Carbon Emission Sustainibilty using Python, SQL, HTML and modules such as SMTP and MIME to generate and HTML report and send it to a desired user (email).
+This is a report on Supply Chain Carbon Emission Sustainabilty using Python, SQL, HTML and modules such as SMTP and MIME to generate and HTML report and send it to a desired user (email).
 
 ## How to calculate CO~2~ emission?
 
