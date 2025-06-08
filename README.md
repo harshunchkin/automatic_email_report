@@ -14,7 +14,7 @@ This is a report on Supply Chain Carbon Emission Sustainabilty using Python, SQL
 
 To calculate the total carbon emission we will use this formula : -
 
-> E~CO2~ = W~Order~ x K~ConversionFactor~ x Distance
+> E~CO2~ = WOrder x KConversionFactor x Distance
 
 *One more thing..* To normalise the data we have to make sure the values of the known quantities are on base 1000 km and 2kg package.
 
@@ -22,7 +22,7 @@ The **Carbon Footprint** for various freight types can be found [here]("https://
 
 Hence, the new formula would be :-
 
-> E~CO2~ = (W~Order~)/2 x K~ConversionFactor~ x (Distance/1000) x C~FreightType~
+> E~CO2~ = (WOrder)/2 x KConversionFactor x (Distance/1000) x CFreightType
 
 After exporting the results to a csv file you can open the .ipynb file to analyse different aspects of the result.
 
